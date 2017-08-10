@@ -1,5 +1,5 @@
 require "ruby_flatten_array/version"
+require "ruby_flatten_array/flatten"
 
 module RubyFlattenArray
-  # Your code goes here...
 end
